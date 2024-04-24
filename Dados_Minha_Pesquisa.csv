@@ -6,8 +6,8 @@ ANO;TIPO;VALOR
 4;Custos Variaveis;0
 5;Custos Variaveis;0
 6;Custos Variaveis;0
-7;Receita;543990.71
-7;Custos Variaveis;1456000
+7;Custos Variaveis;543990.71
+7;Receita;1456000
 7;Imposto;79645.04
 8;Custos Variaveis;140849.87
 9;Custos Variaveis;72555.8
@@ -15,7 +15,7 @@ ANO;TIPO;VALOR
 11;Custos Variaveis;0
 12;Custos Variaveis;0
 13;Custos Variaveis;0
-14;Custos Variaveis;639990.7
+14;Custos Variaveis;639990.71
 14;Receita;1456000
 14;Imposto;68893.04
 15;Custos Variaveis;403892.16
